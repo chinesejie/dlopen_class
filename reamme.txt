@@ -1,0 +1,8 @@
+1、
+gen lipolygon.so first.
+g++ -g polygon.cpp  -fPIC -shared -o lipolygon.so
+
+2、
+cmake .
+make
+launch.json ...

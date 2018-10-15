@@ -1,0 +1,6 @@
+CmakeFiles
+*.cmake
+lipolygon.so.dSYM
+CMakeCache.txt
+*.so
+MakeFile
